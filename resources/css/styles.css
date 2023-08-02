@@ -1,0 +1,50 @@
+/* Top Bar */
+.top-bar {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.top-bar__title {
+    float: right;
+    font-size: 18px;
+}
+
+.top-bar__links a {
+    margin-right: 10px;
+}
+
+/* Main Body */
+.main-body {
+    background-image: url('path/to/image.jpg');
+    background-size: cover;
+    padding: 50px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.main-body__title {
+    font-size: 36px;
+}
+
+.main-body__text {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+}
+
+/* Partners Section */
+.partners {
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Bottom Bar */
+.bottom-bar {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+.bottom-bar__info {
+    font-size: 14px;
+}
